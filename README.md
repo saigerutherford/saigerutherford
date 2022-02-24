@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 Ph.D. candidate studying machine learning in healthcare.
+🔭 Ph.D. candidate studying value-based machine learning in healthcare.
 
 🌱 I’m currently learning: MLOps, Federated Learning, Ethical A.I.
 
