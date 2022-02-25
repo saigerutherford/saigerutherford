@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there. I'm Saige, like the spice and wiseman 👋
 
 
 🔭 Ph.D. candidate studying value-based machine learning in healthcare.
 
-🌱 I’m currently learning: MLOps, Federated Learning, Ethical A.I.
+🌱 Currently learning: MLOps, Federated Learning, Ethical A.I.
 
-💬 Ask me about: yoga, meditation, J. Krishnamurti, bioinformatics, cognitive/clinical neuroscience, open science, FAIR data.
+💬 Love to talk about: yoga, meditation, J. Krishnamurti, computer science, cognitive/clinical neuroscience, open science, FAIR data.
 
 😄 Pronouns: she/her
 
