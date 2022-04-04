@@ -3,7 +3,7 @@
 
 🔭 Ph.D. candidate studying value-based machine learning in healthcare.
 
-🌱 Currently learning: MLOps, Federated Learning, Ethical A.I.
+🌱 Currently learning: MLOps, Federated Learning, Ethical AI.
 
 💬 Love to talk about: meditation, J. Krishnamurti, computer science, cognitive neuroscience, open science.
 
