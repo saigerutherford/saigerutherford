@@ -9,7 +9,7 @@
 
 🌱 Currently learning: MLOps, Federated Learning, Ethical AI.
 
-💬 Love to talk about: meditation, J. Krishnamurti, computer science, cognitive neuroscience, open science.
+💬 Love to talk about: meditation, computer science, cognitive neuroscience, open science.
 
 😄 Pronouns: she/her
 
