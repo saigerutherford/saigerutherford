@@ -7,7 +7,7 @@
 
 🇺🇸 American living in the Netherlands 🇳🇱 with my dog, Charlie-Mop 🐶.
 
-🌱 Currently learning: MLOps, Federated Learning, Ethical AI.
+🌱 Currently learning: MLOps, Federated Learning, Ethical A.I.
 
 💬 Love to talk about: meditation, computer science, cognitive neuroscience, open science.
 
