@@ -5,7 +5,7 @@
 
 💻 Part time (remote) data scientist in the Department of Psychiatry at the University of Michigan.
 
-🇺🇸 American living in the Netherlands 🇳🇱 with my dog, Charlie-Mop 🐶.
+🇺🇸 American living in Germany with my dog, Charlie-Mop 🐶.
 
 🌱 Currently learning: MLOps, Federated Learning, Ethical A.I.
 
