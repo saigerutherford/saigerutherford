@@ -5,12 +5,12 @@
 
 💻 Part time (remote) data scientist in the Department of Psychiatry at the University of Michigan.
 
-🇺🇸 American living in Germany with my dog, Charlie-Mop 🐶.
+🇺🇸 American living in Germany.
 
-🌱 Currently learning: MLOps, Federated Learning, Ethical A.I.
+🌱 Currently learning: Algorithmic fairness, AI for social good, causality. 
 
 💬 Love to talk about: meditation, computer science, cognitive neuroscience, open science.
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I'm also writing a book about my personal journey into computer science from a non-traditional background.
+⚡ Fun fact: I'm a dog mom to Charlie-Mop 🐶 and twin mom to Maxwell and Zia 👶 👶 .
