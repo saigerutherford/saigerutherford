@@ -1,9 +1,6 @@
 ### Hi there. I'm Saige, like the spice and wiseman 👋
 
-
-🧠 Ph.D. candidate studying value-based machine learning in healthcare at Radboud University Medical Center.
-
-💻 Part time (remote) data scientist in the Department of Psychiatry at the University of Michigan.
+🧠 Postdoc studying value-based machine learning in healthcare.
 
 🇺🇸 American living in Germany.
 
