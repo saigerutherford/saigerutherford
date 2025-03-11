@@ -8,6 +8,4 @@
 
 💬  Love to talk about: meditation, computer science, cognitive neuroscience, open science.
 
-😄  Pronouns: she/her
-
 ⚡  Fun fact: I'm a dog mom to Charlie-Mop 🐶 and twin mom to Maxwell and Zia 👶 👶 .
