@@ -1,13 +1,13 @@
 ### Hi there. I'm Saige, like the spice and wiseman 👋
 
-🧠 Postdoc studying value-based machine learning in healthcare.
+🧠  Postdoc studying value-based machine learning in healthcare.
 
-🇺🇸 American living in Germany.
+🇺🇸  American living in Germany.
 
-🌱 Currently learning: Algorithmic fairness, AI for social good, causality. 
+🌱  Currently learning: Algorithmic fairness, AI for social good, causality. 
 
-💬 Love to talk about: meditation, computer science, cognitive neuroscience, open science.
+💬  Love to talk about: meditation, computer science, cognitive neuroscience, open science.
 
-😄 Pronouns: she/her
+😄  Pronouns: she/her
 
-⚡ Fun fact: I'm a dog mom to Charlie-Mop 🐶 and twin mom to Maxwell and Zia 👶 👶 .
+⚡  Fun fact: I'm a dog mom to Charlie-Mop 🐶 and twin mom to Maxwell and Zia 👶 👶 .
