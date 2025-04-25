@@ -1,10 +1,10 @@
 ### Hi there. I'm Saige, like the spice and wiseman 👋
 
-🧠  Postdoc studying value-based machine learning in healthcare.
+🧠  Postdoc working in machine learning for healthcare.
 
 🇺🇸  American living in Germany.
 
-🌱  Currently learning: Algorithmic fairness, AI for social good, causality. 
+🌱  Currently learning: German, causal models, algorithmic fairness. 
 
 💬  Love to talk about: meditation, computer science, cognitive neuroscience, open science.
 
